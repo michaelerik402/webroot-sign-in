@@ -4,7 +4,7 @@ How to Get Webroot Activation Code?
 
 The Webroot activation code is a vital part of installing and using Webroot’s cybersecurity software. This code, typically consisting of 20 alphanumeric characters, is required to activate your Webroot subscription. Whether you are a new customer or reinstalling the software on another device, having access to your activation code is essential. Without this code, the software cannot validate your license or enable full functionality.
 
-.. image:: activation.gif
+.. image:: activate.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
